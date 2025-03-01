@@ -1,4 +1,4 @@
-# Serv00-CT8-Web-Login(16备用)
+# Serv00-CT8-Web-Login(16备用.)
  使用Node.Js模拟网页端自动定时登录Serv00、CT8的web面板，实现账号保活。
 
 
